@@ -1,2 +1,2 @@
-# Tags: latest-amd64
+# Tags:  latest-amd64
 FROM gcr.io/distroless/python3-debian11:latest-amd64
