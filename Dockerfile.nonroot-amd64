@@ -1,0 +1,2 @@
+# Tags: nonroot-amd64
+FROM gcr.io/distroless/python3-debian11:nonroot-amd64
